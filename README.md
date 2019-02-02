@@ -3,9 +3,9 @@ A Cordova plugin for managing Wifi access points and connection state on Android
 
 ========
 
-The objective of this new plugin is to handle correctly Android async Wifi state updates, to be able to properlu detect connection and disconnection, besides better access points list filtering. Even the official Ionic Native plugin has your problems and is no longer being maintained.
+The objective of this new plugin is to handle correctly Android async Wifi state updates, to be able to properly detect connection and disconnection, besides better access points list filtering. Even the official Ionic Native plugin has your problems and is no longer being maintained.
 
-iOS treats Wifi management easier, so most of times you need just a few lines of code to solve the problem.
+iOS treats WiFi management easier, so most times you need just a few lines of code to solve the problem.
 
 If you need any feature or if you want to help, feel free to fork or open pull requests (especially if you are an iOS dev):)
 I will set a pattern for pull requests soon, so we can keep organized.
@@ -18,7 +18,7 @@ Installation
 cordova plugin add cordova-wifi-plugin
 ```
 
-※ Support Android SDK >= 14 (need to test on 26+ versions)
+※ Supports Android SDK >= 14 (need to test on 26+ versions)
 
 Usage
 --------
